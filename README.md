@@ -1,2 +1,13 @@
-# r-coding
-This is a practice place for r-coding :)
+# Coding_Space
+
+This is a practice place for all coding stuffs 😙
+
+## Learning Python
+ - Comments: Starts with # or """for multiple lines"""
+ - Print(): A function to print message on the screen.
+ - Ex: Print("Hi user")
+ - User=input(Print("What's your name: ")
+ - Print("Good to see you",User)
+ - Print("Have a nice day and keep smiling")
+
+## Learning Perl
